@@ -1,0 +1,13 @@
+baseURL = "https://pinheirolucas.dev/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+
+# [outputs]
+# home = ["HTML", "RSS", "JSON"]
+home = []
+
+[security.exec]
+osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|ASDF_DIR|HOME)$']

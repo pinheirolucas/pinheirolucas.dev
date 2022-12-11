@@ -1,0 +1,67 @@
+colorScheme = "congo"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = false
+enableCodeCopy = false
+
+# mainSections = ["section1", "section2"]
+# robots = ""
+
+[header]
+layout = "basic" # valid options: basic, hamburger, hybrid, custom
+# logo = "img/logo.jpg"
+showTitle = false
+
+[footer]
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "profile" # valid options: page, profile, custom
+showRecent = false
+
+[article]
+showDate = true
+showDateUpdated = false
+showAuthor = true
+showBreadcrumbs = false
+showDraftLabel = false
+showEdit = false
+# editURL = "https://github.com/username/repo/"
+editAppendPath = true
+showHeadingAnchors = false
+showPagination = false
+invertPagination = false
+showReadingTime = false
+showTableOfContents = false
+showTaxonomies = false
+showWordCount = false
+showComments = false
+# sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+
+[list]
+showBreadcrumbs = false
+showSummary = false
+showTableOfContents = false
+showTaxonomies = false
+groupByYear = true
+paginationWidth = 1
+
+[sitemap]
+excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+showTermCount = true
+
+[fathomAnalytics]
+# site = "ABC12345"
+# domain = "llama.yoursite.com"
+
+[verification]
+# google = ""
+# bing = ""
+# pinterest = ""
+# yandex = ""
