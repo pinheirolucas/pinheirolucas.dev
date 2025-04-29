@@ -7,7 +7,7 @@ rtl = false
 
 title = "Lucas Pinheiro | Software Engineer"
 # logo = "img/logo.jpg"
-description = "My awesome website"
+description = "Lucas Pinheiro | Software Engineer"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -18,10 +18,10 @@ image = "img/author.jpeg"
 headline = "Software Engineer"
 # bio = "A little bit about you"
 links = [
-  { email = "mailto:contact@pinheirolucas.dev" },
+  { email = "mailto:lucas.contato1996@gmail.com" },
   { github = "https://github.com/pinheirolucas" },
   { linkedin = "https://linkedin.com/in/pinheiro-lucas" },
-  { twitter = "https://twitter.com/pinheirolucaslp" },
+  # { twitter = "https://twitter.com/username" },
   # { link = "https://link-to-some-website.com/" },
   # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   # { apple = "https://www.apple.com" },
